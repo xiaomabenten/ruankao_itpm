@@ -129,4 +129,4 @@
 关注后回复 「**信息系统项目管理师**」 ，领取CTO为你精心准备的超 1TB 免费 信息系统项目管理师 备考资源。
 
 
-![公众号二维码](/img/qrcode.jpg)
+![公众号二维码](https://cdn-static.uoko.com/qrcode.jpg)
