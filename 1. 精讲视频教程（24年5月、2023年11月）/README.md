@@ -3,4 +3,4 @@
 > ![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
 >
 - 23年11月视频教材（已完结）
-- 24年5月视频教材（更新中）
+- 24年5月视频教材（2月21号更新视频资料）
